@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @linuxbens-sudo
+/src/backend/database.py      @linuxbens-sudo
+/src/backend/routers/auth.py  @linuxbens-sudo
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @linuxbens-sudo
